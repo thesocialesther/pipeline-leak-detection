@@ -1,0 +1,11 @@
+{
+  "source_table": "flow_readings",
+  "result_table": "flow_model_state",
+  "pipeline_id": "rig_1",
+  "time_column": "timestamp",
+  "node_column": "node_id",
+  "flow_column": "flow_lpm",
+  "status_column": null,
+  "node_map": {"node_1": "node_1", "node_2": "node_2", "node_3": "node_3"},
+  "poll_seconds": 5
+}

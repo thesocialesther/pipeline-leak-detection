@@ -1,0 +1,8 @@
+{
+  "feature_vectors": 5760,
+  "float32_prediction_mismatches": 0,
+  "cpp_compiled": false,
+  "cpp_prediction_mismatches": null,
+  "esp32_hardware_tested": false,
+  "cpp_status": "Not run: g++/clang++ not found. Python float32 check is not compiled C++ validation."
+}
