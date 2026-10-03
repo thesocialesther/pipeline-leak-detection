@@ -1,0 +1,13 @@
+{
+  "window": 5,
+  "interval_s": 20.0,
+  "tolerance_s": 2.0,
+  "stale_s": 45.0,
+  "min_inlet_lpm": 8.0,
+  "max_inlet_lpm": 12.0,
+  "noise_fraction": 0.02,
+  "bias_fraction": 0.005,
+  "min_valid_flow": 0.5,
+  "max_valid_flow": 15.0,
+  "seed": 42
+}
